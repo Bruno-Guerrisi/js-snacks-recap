@@ -17,7 +17,6 @@ button.addEventListener('click', function(){
             somma = somma + list[i];
             
         }
-        
     }
     
     alert(somma);
