@@ -36,8 +36,7 @@ button.addEventListener('click', function(){
         nome = Math.floor(Math.random() * 10) +1;
         cognome = Math.floor(Math.random() * 10) +1;
         
-        
-        console.log(`invitato/a: ${nomeInvitati[nome]} ${cognomiInvitati[cognome]}`)
+        console.log(`invitato/a: ${nomeInvitati[nome]} ${cognomiInvitati[cognome]}`);
         
     }
 });
